@@ -1,0 +1,6 @@
+*.terraform
+*.lock*
+*.backup*
+*.tfstate
+*.tfvars
+unused4now/
